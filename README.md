@@ -1,2 +1,2 @@
 # Bank-Database
-This is a Database of a Bank along with its branches, customers and accounts
+This Project includes Bank and its subsidaries developed in Oracle Sql Developer .
